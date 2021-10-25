@@ -1,4 +1,4 @@
-# Nome: Sirlenon de Araujo Macedo RGA:201419040103
+# Nome: Sirlenon de Araujo Macedo
 
 CC =  gcc
 CFLAGS = -std=c99
