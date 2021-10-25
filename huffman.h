@@ -1,4 +1,4 @@
-// Nome: Sirlenon de Araujo Macedo RGA:201419040103
+// Nome: Sirlenon de Araujo Macedo
 
 // This constant can be avoided by explicitly calculating height of Huffman Tree
 #define MAX_TREE_HT 100
